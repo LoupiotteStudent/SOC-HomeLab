@@ -1,0 +1,18 @@
+# Logs
+*.log
+*.pcap
+*.json
+*.yml
+*.yaml
+
+# OS / IDE
+*.swp
+.DS_Store
+__pycache__/
+.idea/
+.vscode/
+.env
+
+# Backup
+*.bak
+*.old
