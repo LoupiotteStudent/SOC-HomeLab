@@ -27,7 +27,8 @@ Projet personnel de **laboratoire SOC complet**, déployé sur un **serveur Prox
 ---
 
 ## 🌐 Schéma d’infrastructure
-*(à compléter avec un diagramme dans `diagrams/architecture.drawio`)*
+
+![Architecture SOC HomeLab](diagrams/architecture.png)
 
 ---
 
