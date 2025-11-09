@@ -28,7 +28,7 @@ Projet personnel de **laboratoire SOC complet**, déployé sur un **serveur Prox
 
 ## 🌐 Schéma d’infrastructure
 
-![Architecture SOC HomeLab](diagrams/architecture_v2.drawio.png)
+![Architecture SOC HomeLab](diagrams/architecture_v3.drawio.png)
 
 ---
 
